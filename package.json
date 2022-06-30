@@ -1,0 +1,27 @@
+{
+    "name": "nodejs-task3",
+    "version": "1.0.0",
+    "description": "by Ayon Choudhury",
+    "main": "index.js",
+    "scripts": {
+        "start": "node .",
+        "devStart": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AyonC123/NodeJS-Task3.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AyonC123/NodeJS-Task3/issues"
+    },
+    "homepage": "https://github.com/AyonC123/NodeJS-Task3#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.18"
+    }
+}
